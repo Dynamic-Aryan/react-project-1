@@ -1,3 +1,3 @@
 # react-project-1
 
-Don't look at main branch ,,i created 2 new branches ,,you can see their code
+"Don't focus on the main branch; I've created two new branches. You can review their code instead."
